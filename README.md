@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-### Machine Learning concepts using Python with real world datasets.
+### Machine Learning concepts using Python with real world datasets testing
 
 1. [Customer Churn](https://github.com/arjunmann73/Machine-Learning/tree/master/Customer%20Churn): K Nearest Neighbours
 2. [CO2 Emissions](https://github.com/arjunmann73/Machine-Learning/tree/master/CO2%20Emissions): Linear Regression
